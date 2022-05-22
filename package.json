@@ -1,0 +1,19 @@
+{
+  "name": "api-the-movie-db-vanilla",
+  "version": "1.0.0",
+  "description": "Curso práctico consumo de API REST (www.themoviedb.org) con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juarez-eliud/api-js-movie-db.git"
+  },
+  "author": "Eliud Juárez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juarez-eliud/api-js-movie-db/issues"
+  },
+  "homepage": "https://github.com/juarez-eliud/api-js-movie-db#readme"
+}
